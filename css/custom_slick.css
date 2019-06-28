@@ -1,0 +1,9 @@
+.box_customer_voice .img-slick .slick-slider-item.slick-slide {
+ 
+    margin: 0 20px;
+}
+.slick-slide img{
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
